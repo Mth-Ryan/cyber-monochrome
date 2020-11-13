@@ -20,7 +20,7 @@ to your init file.
 ___
 ### Configuration
 
-Just throw this to your _~/.vimrc_ or ._~/.config/nvim/init.vim:
+Just throw this to your _~/.vimrc_ or ~/.config/nvim/init.vim:
 
     colorscheme cmonochrome
 
