@@ -1,38 +1,33 @@
-## monochrome - A dark Vim color scheme for your focused hacking sessions
+# Cyber Monochrome
 
+This colorschreme is a fork of [vim-plug](https://github.com/fxn/vim-monochrome), and it's used on my dot files.
+___
 ### Look & Feel
-
-`vim-monochrome` works in GUI/true-color terminals, as well as 256-color terminals:
-
-<p align="center">
+Gui colors, using Neovim with `set termguicolors`:
 <img alt="-Cyber-Monochrome Vim color scheme" src="img/lf01.png"/>
-</p>
 
-The status line in the screenshot is
-[lightline.vim](https://github.com/itchyny/lightline.vim) with the `nord` color
-scheme, which is a great match.
-
+___
 ### Installation
 
 Installation depends on how you manage packages. For example, with
 [vim-plug](https://github.com/junegunn/vim-plug) add
 
 ```
-Plug 'fxn/vim-monochrome'
+Plug 'Mth-Ryan/cyber-monochrome'
 ```
 
 to your init file.
-
+___
 ### Configuration
 
-Just throw this to your _~/.vimrc_:
+Just throw this to your _~/.vimrc_ or ._~/.config/nvim/init.vim:
 
-    colorscheme monochrome
+    colorscheme cmonochrome
 
 Comments can optionally be rendered using italics:
 
     let g:monochrome_italic_comments = 1
-    colorscheme monochrome
+    colorscheme cmonochrome
 
 It is important that the flag is set before loading the theme.
 
