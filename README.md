@@ -1,6 +1,6 @@
 # Cyber Monochrome
 
-This colorschreme is a fork of [vim-monochrome](https://github.com/fxn/vim-monochrome), and it's used on [my dot files](https://github.com/Mth-Ryan/My-personal-Dotfiles).
+This colorschreme is a fork of [vim-monochrome](https://github.com/fxn/vim-monochrome), and it's used on [my dot files](https://github.com/Mth-Ryan/dotfiles).
 ___
 ### Look & Feel
 Gui colors, using Neovim with `set termguicolors`:
