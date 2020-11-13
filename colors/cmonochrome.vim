@@ -15,7 +15,7 @@ endif
 
 let g:colors_name = 'cmonochrome'
 
-let s:primary   = ['#83a8a8'  ,  72]
+let s:primary   = ['#83a8a8'  ,  66]
 let s:black     = ['#0e1111'  ,  16]
 let s:bgray     = ['#181818'  , 233]
 let s:lgray     = ['LightGray', 255]
