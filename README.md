@@ -5,7 +5,7 @@
 `vim-monochrome` works in GUI/true-color terminals, as well as 256-color terminals:
 
 <p align="center">
-<img alt="Monochrome Vim color scheme" src="img/vim-monochrome.png"/>
+<img alt="-Cyber-Monochrome Vim color scheme" src="img/lf01.png"/>
 </p>
 
 The status line in the screenshot is
